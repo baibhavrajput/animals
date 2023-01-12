@@ -14,7 +14,6 @@ const svgMap = {
   cow: cowImage,
   dog: dogImage,
   gator: gatorImage,
-  // heart: heartImage,
   horse: horseImage,
 };
 
